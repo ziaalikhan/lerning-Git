@@ -1,0 +1,18 @@
+body{
+    background-color: royalblue !important;
+}
+.nav justify-content-end{
+    background-color: black !important;
+    color: white !important;
+}
+.nav-link {
+    color: white !important;
+}
+.img-fluid{
+    margin-left: 50px;
+}
+.khan{
+    justify-content: start;
+    color: white !important;
+    margin-right: 570px;
+}
